@@ -38,3 +38,6 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+
+## Related Template
+- Use the [Project Operating Rhythm Checklist](./octoacme-project-operating-rhythm-checklist.md) to define the recurring meetings, reporting cadence, and escalation triggers for the project.

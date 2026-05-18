@@ -36,3 +36,6 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Notable changes:
 - Migration steps (if any):
 - Known issues:
+
+## Related Template
+- Use the [Release Readiness Review Checklist](./octoacme-release-readiness-review-checklist.md) before production releases to confirm QA, Security, SRE / Operations, and Support sign-off.
