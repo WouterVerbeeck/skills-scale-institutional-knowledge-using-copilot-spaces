@@ -21,6 +21,9 @@ Roles are clearly defined to keep ownership unambiguous: the **Project Manager**
 | [Project Planning](./octoacme-project-planning.md) | Backlog creation, estimation, dependencies, and milestone mapping |
 | [Execution and Tracking](./octoacme-execution-and-tracking.md) | Day-to-day delivery rhythm, board workflow, and escalation paths |
 | [Release and Deployment](./octoacme-release-and-deployment.md) | Release checklist, staging verification, and post-deploy practices |
+| [Release Readiness Review Checklist](./octoacme-release-readiness-review-checklist.md) | Cross-functional sign-off checklist for QA, Security, SRE / Ops, and Support before release |
 | [Retrospective and Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md) | Structured retro format and action-item tracking |
 | [Risks and Communication](./octoacme-risks-and-communication.md) | Risk register practices, stakeholder communication, and templates |
+| [RACI / Ownership Template](./octoacme-raci-and-ownership-template.md) | Default ownership matrix for lifecycle phases and recurring activities |
+| [Project Operating Rhythm Checklist](./octoacme-project-operating-rhythm-checklist.md) | Lightweight template for cadence, meetings, reporting, and escalation triggers |
 | [Roles and Personas](./octoacme-roles-and-personas.md) | Definitions and responsibilities for each project role |

@@ -18,6 +18,7 @@ Applies to all cross-functional projects that deliver product features, services
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
+- Cross-functional partners such as Engineering Managers, Technical Leads, Designers, Security, SRE / Operations, Support, and Data partners help the team make timely, informed decisions.
 - Stakeholders: provide inputs and approvals.
 
 ## Key Artifacts
@@ -26,6 +27,9 @@ Applies to all cross-functional projects that deliver product features, services
 - Sprint/Iteration Backlog
 - Acceptance Criteria & Definition of Done
 - Risk Register
+- RACI / Ownership Template
+- Project Operating Rhythm Checklist
+- Release Readiness Review Checklist
 - Retrospective notes and action items
 
 ## Lifecycle (high-level)
@@ -40,6 +44,12 @@ Applies to all cross-functional projects that deliver product features, services
 - Twice-weekly standups for delivery team (or as agreed)
 - Monthly stakeholder updates
 - Ad-hoc escalations as needed
+
+## Supporting Templates
+- [OctoAcme Personas](./octoacme-roles-and-personas.md)
+- [RACI / Ownership Template](./octoacme-raci-and-ownership-template.md)
+- [Project Operating Rhythm Checklist](./octoacme-project-operating-rhythm-checklist.md)
+- [Release Readiness Review Checklist](./octoacme-release-readiness-review-checklist.md)
 
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
